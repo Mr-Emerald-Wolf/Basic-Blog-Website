@@ -1,1 +1,1 @@
-This is the css folder for site leaf.
+This is the CSS folder for site leaf.
